@@ -28,14 +28,3 @@
 <p align="center" style="margin-top: 40px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer" />
 </p>
-</p>
-
-<!-- Fun Quote -->
-<p align="center" style="font-style: italic; font-size: 20px; margin-top: 30px;">
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
-</p>
-
-<!-- Footer -->
-<p align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Capsule"/>
-</p>

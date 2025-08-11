@@ -67,8 +67,3 @@
 </p>
 </p>
 </p>
-
-<!-- Footer -->
-<p align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer" />
-</p>

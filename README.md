@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&repeat=true&lines=Hello,+I'm+Thilina+Ananda;Student+%26+Web+Developer;Welcome+to+My+GitHub!" alt="Typing Animation" />
 </h1>
 
-<!-- Animated GIF -->
+<!-- Ninja Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="300" />
+  <img src="https://i.pinimg.com/originals/7c/cc/5a/7ccc5a0ccfb6ce361cc26d797e192dd7.png" alt="Ninja" width="250" />
 </p>
 
 <!-- About Me -->
@@ -50,6 +50,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thilina&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Footer -->
+<p align="center" style="margin-top: 40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer" />
+</p>
 </p>
 
 <!-- Footer -->

@@ -1,6 +1,9 @@
-<!-- README.md -->
+<!-- Wave Animation on Top -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80" alt="Top Wave Animation" />
+</p>
 
-<!-- Animated Heading -->
+<!-- Heading -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&repeat=true&lines=Hello,+I'm+Thilina+Ananda;Student+%26+Web+Developer;Welcome+to+My+GitHub!" alt="Typing Animation" />
 </h1>
@@ -50,6 +53,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thilina&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Wave Animation on Bottom -->
+<p align="center" style="margin-top: 40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave Animation" />
+</p>
 </p>
 
 <!-- Footer -->

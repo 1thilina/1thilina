@@ -55,15 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thilina&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- Wave Animation on Bottom -->
-<p align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave Animation" />
-</p>
-</p>
-
-<!-- Footer -->
-<p align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer" />
-</p>
-</p>
+<!-- Single Wave Animation on Bottom -->
+<p align="center" style="margin-top:40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave" />
 </p>
